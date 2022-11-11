@@ -4,3 +4,7 @@ MP
 Goa
 Tamil Nadu
 Kerala
+
+Delhi
+Haryana
+Punjab
